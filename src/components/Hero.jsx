@@ -4,7 +4,7 @@ import {styles} from  '../style'
 import { IslandCanvas } from '.'
 import { email,phone,glass } from '../assets';
 
-import './Hero.css';
+import './hero.css';
 
 const Hero = () => {
   
