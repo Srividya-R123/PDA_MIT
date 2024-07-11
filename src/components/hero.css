@@ -34,7 +34,7 @@
     height: 40px;
     width:40px;
     z-index: 1;
-    transform: translateX(-3430%); /* Move the button to the left */
+    transform: translateX(-3530%); /* Move the button to the left */
     
     transition: transform 0.5s ease-in-out;
 }
